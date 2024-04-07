@@ -11,3 +11,7 @@ Tools used: AWS Lambda, Lambda function, Amazon API Gateway, Postman.
 
 # **final project:**
 ![Screenshot 2024-04-07 072456](https://github.com/Rupam200116/-Serverless-API-using---AWS/assets/102980397/7bad0c69-d401-45c2-94ec-1d74d43a3741)
+
+# **Running the API on Postman:**
+![image](https://github.com/Rupam200116/-Serverless-API-using---AWS/assets/102980397/b41cf6eb-9911-43b9-b2f6-0f123da81472)
+
