@@ -1,0 +1,12 @@
+URL_link: https://jsonplaceholder.typicode.com/
+
+scrtipt: fetch('https://jsonplaceholder.typicode.com/todos/1')
+      .then(response => response.json())
+      .then(json => console.log(json))
+
+output: {
+  "userId": 1,
+  "id": 1,
+  "title": "delectus aut autem",
+  "completed": false
+}
